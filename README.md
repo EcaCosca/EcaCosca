@@ -9,7 +9,7 @@
 
 ## -: Hi, I'm Eca, nice to e-meet you, I'm a developer!!
 
-- 🔭 I'm currently working at Openers & Closers: [Openers & Closers][Openers & Closers]!
+- 🔭 I'm currently working at [Openers & Closers][Openers & Closers]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -21,9 +21,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="ecacoscarelli.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [website]
-<img align="left" alt="enriquecoscarelli LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
-<img align="left" alt="ecacoscarelli Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [instagram]
+<img align="left" alt="ecacoscarelli.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website]
+<img align="left" alt="enriquecoscarelli LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+<img align="left" alt="ecacoscarelli Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram]
 
 <br />
 
@@ -72,30 +72,30 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
-
+<!-- 
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Activity</summary> -->
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+<!-- 1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 2. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme) -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="EcaCosca's GitHub Stats" src="https://github-readme-stats-six-eta-15.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
+ -->
 </details>
 
-<!-- [website]: https://codeSTACKr.com -->
+[website]: https://enriquecoscarelli.netlify.app/
 [Openers & Closers]: https://openers-closers.com/
 [twitter]: https://twitter.com/ecacoscarelli
 [youtube]: https://youtube.com/ecacoscarelli
