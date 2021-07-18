@@ -9,11 +9,11 @@
 
 ## -: Hi, I'm Eca, nice to e-meet you, I'm a developer!!
 
-- 🔭 I'm currently working at Openers & Closers: [Openers & Closers][trader]!
+- 🔭 I'm currently working at Openers & Closers: [Openers & Closers][Openers & Closers]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love airsports such as skydiving and BASE jumping
+- ⚡ Fun fact: I love airsports such as skydiving and BASE jumping [Here's some proof!][youtubereel]!
 
 ### Spotify Playing 🎧
 
@@ -21,9 +21,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ecacoscarelli.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="enriquecoscarelli" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ecacoscarelli" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="ecacoscarelli.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [website]
+<img align="left" alt="enriquecoscarelli LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
+<img align="left" alt="ecacoscarelli Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [instagram]
 
 <br />
 
@@ -98,7 +98,8 @@
 <!-- [website]: https://codeSTACKr.com -->
 [Openers & Closers]: https://openers-closers.com/
 [twitter]: https://twitter.com/ecacoscarelli
-<!-- [youtube]: https://youtube.com/ecacoscarelli -->
+[youtube]: https://youtube.com/ecacoscarelli
+[youtubereel]: https://www.youtube.com/watch?v=7SVcZRTugWY&t=3s
 [instagram]: https://instagram.com/ecacoscarelli
 [linkedin]: https://www.linkedin.com/in/enrique-coscarelli/
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
