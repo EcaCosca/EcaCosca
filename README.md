@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ecacoscarelli Spotify Playing" width="350" />](https://open.spotify.com/user/caf7edctq04na4zb72vbttzko)
+[<img src="https://res.cloudinary.com/dbggt3o28/image/upload/v1656362264/long_term_ezoome.png" alt="ecacoscarelli Spotify Playing" width="350" />](https://open.spotify.com/user/caf7edctq04na4zb72vbttzko)
 
 ### Connect with me:
 
