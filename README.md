@@ -4,10 +4,10 @@
 
 ## -: Hi, I'm Eca, nice to e-meet you, I'm a developer!!
 
-- 🔭 I'm currently working at [Openers & Closers][Openers & Closers]!
+- 🔭 I'm currently working at [WBS CODING SCHOOL][Wbs]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects, impact the new world through eductaion.
 - ⚡ Fun fact: I love airsports such as skydiving and BASE jumping [Here's some proof!][youtubereel]!
 
 ### Spotify Playing 🎧
@@ -91,7 +91,7 @@
 </details>
 
 [website]: https://enriquecoscarelli.netlify.app/
-[Openers & Closers]: https://openers-closers.com/
+[Wbs]: https://www.wbscodingschool.com/
 [twitter]: https://twitter.com/ecacoscarelli
 [youtube]: https://youtube.com/ecacoscarelli
 [youtubereel]: https://www.youtube.com/watch?v=7SVcZRTugWY&t=3s
