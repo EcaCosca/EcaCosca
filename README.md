@@ -12,6 +12,8 @@
 
 ### Spotify Playing 🎧
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2esiyT9GTerQWWCn6PCctS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 [<img src="https://res.cloudinary.com/dbggt3o28/image/upload/v1656362264/long_term_ezoome.png" alt="ecacoscarelli Spotify Playing" width="350" />](https://open.spotify.com/user/caf7edctq04na4zb72vbttzko)
 
 ### Connect with me:
