@@ -1,10 +1,10 @@
 # 💫 About Me:
 I love solving riddles, learning new things and flying.
 
+[![CodeWars](https://www.codewars.com/users/ecaCosca/badges/large)](https://www.codewars.com/users/ecaCosca)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ecacoscarelli/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enrique-coscarelli/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enrique-coscarelli/) 
 
 # 💻 Tech Stack:
